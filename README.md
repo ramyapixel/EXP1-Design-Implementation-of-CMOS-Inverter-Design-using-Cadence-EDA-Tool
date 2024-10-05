@@ -97,14 +97,14 @@ For Transient Analysis Settings and Output
  
  ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
 
- ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+![vlsi exp 1 1](https://github.com/user-attachments/assets/0778023e-c848-4ddb-94fa-134d756bf39b)
+ 
 
  For DC Analysis Settings and Output
 ![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
 
-![image](https://github.com/user-attachments/assets/e6b8b6c7-378f-449e-82a5-72286f238b02)
 
- 
+![vlsi exp 1 2](https://github.com/user-attachments/assets/6330dc19-afda-4f1f-bb41-15f0fae40631)
 
 
 
